@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: blanchedalmond;
+}
+
+p{
+    font-size: 25px;
+}
+
+#modalopen{
+    float: right;
+}
+
+h1{
+    padding-left: 100px;
+}
+
